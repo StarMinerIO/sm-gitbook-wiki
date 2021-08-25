@@ -1,3 +1,7 @@
+---
+description: About StarMiner
+---
+
 # Introduction
 
 StarMiner is a Play To Earn NFT mining game built on the Binance Smart Chain.
