@@ -25,6 +25,6 @@
 
 ---
 
-* [Contracts](contracts.md)
+* [Contracts&Addresses](contracts.md)
 * [Links](links.md)
 
