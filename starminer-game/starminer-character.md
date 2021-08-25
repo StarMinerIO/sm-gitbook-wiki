@@ -25,7 +25,7 @@ Each SMC is the BEP-721 standard token. It has a unique genome that defines its 
 
 Each Miner has its own power value, the maximum is 120 power. 30 power will be consumed each time you mine and 10 power will be recovery every 2 hours.
 
-You could stake ORE token to speed up the recovery of Miner power, then it only takes 1 hour for 10 power! You save half time to earn more!
+You also can stake ORE token to speed up the recovery of Miner power, then it only takes 1 hour for 10 powers! You save half time to earn more!
 
 If you have multiple miners and want to speed up all for recovery, you should stake ORE for each miner.
 
