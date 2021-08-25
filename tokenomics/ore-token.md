@@ -1,6 +1,6 @@
 # ORE Token
 
-Contract Address: 0x413B8677922bA59b7E75330ce0D5f8749B952e06
+Contract Address: 0xD50f71d0Cc64C228074332cd3c597a63556BdB67
 
 Name: StarMiner ORE Token
 

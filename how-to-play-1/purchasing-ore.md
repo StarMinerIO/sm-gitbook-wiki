@@ -12,7 +12,7 @@ ORE can be purchased on a decentralized exchange such as Pancakeswap using BNB.
 
 The steps to purchasing ORE are outlined below:
 
-1. Go to [Pancakeswap](https://pancakeswap.finance/swap#/swap?outputCurrency=0x413b8677922ba59b7e75330ce0d5f8749b952e06).
+1. Go to [Pancakeswap](https://pancakeswap.finance/swap#/swap?outputCurrency=0xD50f71d0Cc64C228074332cd3c597a63556BdB67).
 
 2. Click on the "Connect to a wallet" button on the upper right-hand side of the screen.
 
