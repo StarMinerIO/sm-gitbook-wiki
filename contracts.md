@@ -14,5 +14,3 @@ Liquidity Provider Reserve: 0xeE629dB78e76950ed600beCA9Bb3D9D890C7A546
 
 PancakeSwap LP: 0x2Ec2c8c7dd9d058AAaC500A4D695eB3e881E2E7D
 
-
-

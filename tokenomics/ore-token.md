@@ -12,3 +12,5 @@ Network: Binance Smart Chain
 
 Supply: 1,000,000
 
+![](../.gitbook/assets/token-fen-bu-.png)
+
