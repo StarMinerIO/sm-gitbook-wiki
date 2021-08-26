@@ -10,3 +10,5 @@ In the near future, with the rapid development of technology and population expl
 
 To start mining, you need to buy the Miner Box for a Miner NFT. After collecting enough Power, your miner can start mining to get profit for you.
 
+**Website:** [**https://www.starminer.io/**](https://www.starminer.io/)\*\*\*\*
+
