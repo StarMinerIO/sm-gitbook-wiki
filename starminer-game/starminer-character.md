@@ -2,7 +2,7 @@
 
 ##  📌 StarMiner BOX
 
-All StarMiner Characters are born from the Box , Players must first purchase the Box with the $ORE token. Once a Box is opened, a unique StarMiner Character \(SMC\) NFT is minted. Each SMC has a unique genome that defines how it looks and how rare it is.
+All StarMiner Characters are born from the BOXes , Players must first purchase the Box with the $ORE token. Once a Box is opened, a unique StarMiner Character \(SMC\) NFT is minted. Each SMC has a unique genome that defines how it looks and how rare it is.
 
 |  Rarity | Percentage |
 | :---: | :---: |
