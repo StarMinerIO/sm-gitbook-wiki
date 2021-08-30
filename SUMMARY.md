@@ -15,6 +15,7 @@
 * [StarMiner Characters \(SMC\)](starminer-game/starminer-character.md)
 * [Mineral Planets](starminer-game/mining-planets.md)
 * [Staking](starminer-game/farm.md)
+* [Roadmap](starminer-game/roadmap.md)
 
 ## TOKENOMICS
 
