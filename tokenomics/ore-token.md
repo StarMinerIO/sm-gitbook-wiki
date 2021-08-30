@@ -13,7 +13,7 @@
 
 ![](../.gitbook/assets/token-fen-bu-.png)
 
-**Private Sale:** As start-up capital for development and marketing promotion. Unlocked in five months, 20% per month
+**Private Sale:** As start-up capital for development and marketing promotion. Unlocked in five months, 20% per month.
 
 **Liquidity Reserve**: In order to increase the circulation supply,if necessary, we will sell some of them to add the liquidity of PancakeSwap.
 
