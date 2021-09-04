@@ -6,6 +6,8 @@ Miners can speed up the recovery process by adding ORE-BNB LPs.
 
 To provide liquidity, you’ll need to commit an amount of BNB and ORE token.
 
+### **Add BNB-ORE Liquidity:** Visit the [**BNB-ORE Liquidity page**](https://pancakeswap.finance/add/BNB/0xD50f71d0Cc64C228074332cd3c597a63556BdB67)\*\*\*\*
+
 ### Steps
 
 1.Visit the [Liquidity page](https://pancakeswap.finance/liquidity). 
