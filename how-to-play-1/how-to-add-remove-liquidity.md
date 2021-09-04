@@ -40,6 +40,32 @@ The **Supply** button will light up. Click it.
 
 You can repeat the steps above to add more liquidity at any time.
 
+## **Removing liquidity**
+
+### **Steps**
+
+1.Visit the [Liquidity page](https://pancakeswap.finance/liquidity)**.**
+
+2.Click on your pair under “Your Liquidity”.
+
+![](../.gitbook/assets/1%20%281%29.png)
+
+3.Click **Remove**. A new window will appear.
+
+![](../.gitbook/assets/2%20%281%29.png)
+
+4.Use the buttons or slider to choose what percent to remove. Choose **MAX** to remove everything.
+
+![](../.gitbook/assets/3%20%281%29.png)
+
+5.Click **Approve**. Your wallet will ask you to confirm the action**.**
+
+6.The **Remove** button will light up. Click it.
+
+7.A Window will appear saying what you will receive. Click **Confirm**. Your wallet will ask you to confirm the action.
+
+8.After a short wait, you will see your new LP Token balance at the bottom of the page.
+
 
 
 
