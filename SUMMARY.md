@@ -10,6 +10,7 @@
 * [Purchasing BOX](how-to-play-1/purchasing-box.md)
 * [Start Mining](how-to-play-1/mining.md)
 * [How to Add Liquidity](how-to-play-1/how-to-add-remove-liquidity.md)
+* [Calculating How Many ORE To Add Liquidity](how-to-play-1/calculating-how-many-ore-to-add-liquidity.md)
 
 ## STARMINER GAME
 
