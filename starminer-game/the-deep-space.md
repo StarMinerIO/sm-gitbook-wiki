@@ -12,7 +12,5 @@
 
 4, if the 4th ship cannot take off with full crew within 4 hours, this mining mission will fail and the mission will restart. The 3rd and 2nd spaceships will have to return and the miners will be refunded about 85% \(2nd spaceship\) and 91% \(3rd spaceship\) of the ticket value paid. The miners on the 4th ship will get the full amount of the tickets paid back. 
 
-5, The miners who participate in the 3rd ship \(because the 4th ship can't take off\) will be rewarded with a power card.
 
-6, Once your invited friend takes part in the mission, you will be rewarded with a power card.
 
